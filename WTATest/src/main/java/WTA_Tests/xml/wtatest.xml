@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WTATest" parallel="false">
+  <test name="WTA Test">
+    <classes>
+    	<class name ="WTA_Tests.HomeTest" />
+    	<class name ="WTA_Tests.RegisterTest" />
+    </classes>
+  </test>
+</suite>
